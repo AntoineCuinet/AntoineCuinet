@@ -18,12 +18,11 @@ Actually :
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-## Connect with me :
+### Connect with me :
 
 [![img_contact](./img/globe-light.svg)](https://acuinet.fr#gh-light-mode-only)
 [![img_contact](./img/globe-dark.svg)](https://acuinet.fr#gh-dark-mode-only)
 &nbsp;&nbsp;
-
 [![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/antoine-cuinet/#gh-light-mode-only)
 [![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/antoine-cuinet/#gh-dark-mode-only)
 
@@ -35,6 +34,7 @@ Actually :
     src="https://mikecodeur.com/mike/assets/mikecodeur-trans.png"
 />
 </a> -->
+### Languages and Tools :
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][youtubeplaylist]
 
