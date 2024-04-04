@@ -3,6 +3,7 @@
 ### Connect with me :
 
 [![img_contact](./img/globe-light.svg)](https://mikecodeur.com#gh-light-mode-only)
+[![img_contact](./img/globe-dark.svg)](https://mikecodeur.com#gh-light-mode-only)
 
 ## Languages and Tools
 
