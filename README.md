@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-<!--
-**AntoineCuinet/AntoineCuinet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Connect with me :
 
-Here are some ideas to get you started:
+[![img_contact](./img/globe-light.svg)](https://mikecodeur.com#gh-light-mode-only)
 
 ## Languages and Tools
 
@@ -15,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+- 
