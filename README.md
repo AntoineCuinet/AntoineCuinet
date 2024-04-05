@@ -4,10 +4,10 @@ I'm Antoine from France, living in Besançon, I'm a computer science student, pa
 
 Actually :
 
-- 🔭 I’m currently working on a new ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: Website or Email
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on my personal portfolio 💻
+- 🌱 I’m currently learning system programming Shell and C
+- 📫 How to reach and contact me : Website or Email
+- ⚡ Fun fact : I handle alcohol well 🍺
 
 ### Connect with me :
 
@@ -44,7 +44,7 @@ Actually :
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntoineCuinet&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
 
-### Recent GitHub Activity :
+<!-- ### Recent GitHub Activity : -->
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
