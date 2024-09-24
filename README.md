@@ -5,7 +5,7 @@ I'm Antoine from France, living in Besançon, I'm a computer science student, pa
 Actually :
  
 - 🔭 I’m currently working on my personal portfolio 💻
-- 🌱 I’m currently learning system programming Shell and C
+- 🌱 I'm currently learning language theory
 - 📫 How to reach and contact me : Website or Email
 - ⚡ Fun fact : I handle alcohol well 🍺
 
