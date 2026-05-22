@@ -5,8 +5,6 @@ I'm Antoine from France, I'm a computer science student, passionate about Web Fu
 - 🔭 Actually, I’m currently working on my new personal portfolio
 - 📫 How to reach and contact me: Website or Email
 
-<br/><br/>
-
 ### Connect with me
 
 [![img_contact](./img/globe-light.svg)](https://acuinet.fr#gh-light-mode-only)
@@ -14,8 +12,6 @@ I'm Antoine from France, I'm a computer science student, passionate about Web Fu
 &nbsp;&nbsp;
 [![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/antoine-cuinet/#gh-light-mode-only)
 [![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/antoine-cuinet/#gh-dark-mode-only)
-
-<br/><br/>
 
 ### Languages and Tools
 
@@ -29,8 +25,6 @@ I'm Antoine from France, I'm a computer science student, passionate about Web Fu
 <img align="left" alt="WordPress" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
-<br/><br/>
-
 ### My daily routine
 
 ```mermaid
@@ -40,5 +34,3 @@ graph TD;
     Gym-->Sleep;
     Sleep-->Code;
 ```
-
-<br/><br/>
