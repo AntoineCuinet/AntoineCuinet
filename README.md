@@ -25,6 +25,8 @@ I'm Antoine from France, I'm a computer science student, passionate about Web Fu
 <img align="left" alt="WordPress" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
+<br/><br/>
+
 ### My daily routine
 
 ```mermaid
@@ -34,3 +36,5 @@ graph TD;
     Gym-->Sleep;
     Sleep-->Code;
 ```
+
+<br/>
