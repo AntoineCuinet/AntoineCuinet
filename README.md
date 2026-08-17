@@ -3,7 +3,7 @@
 I'm Antoine from France, I'm a **computer science student**, passionate about **full-stack web development**.
 
 - 🔭 Actually, I’m currently working on my new personal portfolio
-- 📫 How to reach and contact me: **Website** or **[Email](mailto:antoine@acuinet.fr)**
+- 📫 How to reach and contact me: **[Website](https://acuinet.fr)** or **[Email](mailto:antoine@acuinet.fr)**
 
 ### Connect with me
 
