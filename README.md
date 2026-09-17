@@ -14,7 +14,7 @@ I'm Antoine, a **M2 computer science student** in Software & Systems Engineering
 - **KOREDGE Web Developer** — Developed custom WordPress templates for e-commerce websites — 5-week internship
 - **Treasurer & DevOps Lead** at OFNI student association — Developed and maintained a PHP/Symfony website and managed self-hosted GitLab CI/CD
 
-### Languages and Tools
+## Languages and Tools
 
 <div style="display:flex;justify-content:space-between;align-items:center;">
     <div>
