@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Antoine+Cuinet;Full+Stack+Developer" alt="Antoine Cuinet" height="165" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=38&duration=3000&pause=500&color=4493F8&center=true&vCenter=true&width=600&lines=Antoine+Cuinet;Full+Stack+Developer" alt="Antoine Cuinet" height="165" />
+</p>
 
 I'm Antoine, a **M2 computer science student** in Software & Systems Engineering (MIP) at Marie et Louis Pasteur University, Besançon. Passionate about **full-stack web development**.
 
@@ -16,35 +16,38 @@ I'm Antoine, a **M2 computer science student** in Software & Systems Engineering
 
 ### Languages and Tools
 
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="SASS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" style="padding-right:10px;" />   
-<img align="left" alt="PHP" width="26px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Symfony" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" style="padding-right:10px;" />
-<img align="left" alt="WordPress" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-
-<br/>
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AntoineCuinet&theme=github_dark"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AntoineCuinet&theme=github"
-    />
-    <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AntoineCuinet&theme=github"
-      alt="Top Languages"
-      height="165"
-    />
-  </picture>
-</p>
+<div style="display:flex;justify-content:space-between;align-items:center;">
+    <div>
+        <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+        <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+        <img align="left" alt="SASS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" style="padding-right:10px;" />   
+        <img align="left" alt="PHP" width="26px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" style="padding-right:10px;" />
+        <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+        <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+        <img align="left" alt="Symfony" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" style="padding-right:10px;" />
+        <img align="left" alt="WordPress" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" style="padding-right:10px;" />
+        <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+    </div>
+    <div>
+        <p align="center">
+        <picture>
+            <source
+            media="(prefers-color-scheme: dark)"
+            srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AntoineCuinet&theme=github_dark"
+            />
+            <source
+            media="(prefers-color-scheme: light)"
+            srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AntoineCuinet&theme=github"
+            />
+            <img
+            src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AntoineCuinet&theme=github"
+            alt="Top Languages"
+            height="165"
+            />
+        </picture>
+        </p>
+    </div>
+</div>
 
 ## Connect with me
 
