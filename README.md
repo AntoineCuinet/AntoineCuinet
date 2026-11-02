@@ -4,7 +4,7 @@
 
 I'm Antoine, a **M2 computer science student** in Software & Systems Engineering (MIP) at Marie et Louis Pasteur University, Besançon. Passionate about **mobile and full-stack web development**.
 
-- 🔭 Actually, I’m currently working on my new personal Symfony bundle and on Algourmand, a native iOS project
+- 🔭 Actually, I’m currently working on my own new Symfony bundle, as well as on Algourmand, a native iOS project.
 - 📫 How to reach and contact me: **[Website](https://acuinet.fr)** or **[Email](mailto:antoine@acuinet.fr)**
 
 ## Experience
