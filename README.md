@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=38&duration=3000&pause=500&color=4493F8&center=true&vCenter=true&width=650&lines=Antoine+Cuinet;Full-Stack/mobile+Developer" alt="Antoine Cuinet" height="165" />
 </p>
 
-I'm Antoine, a **M2 computer science student** in Software & Systems Engineering (MIP) at Marie et Louis Pasteur University, Besançon. Passionate about **full-stack web development**.
+I'm Antoine, a **M2 computer science student** in Software & Systems Engineering (MIP) at Marie et Louis Pasteur University, Besançon. Passionate about **mobile and full-stack web development**.
 
 - 🔭 Actually, I’m currently working on my new personal Symfony bundle
 - 📫 How to reach and contact me: **[Website](https://acuinet.fr)** or **[Email](mailto:antoine@acuinet.fr)**
