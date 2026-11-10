@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=38&duration=3000&pause=500&color=4493F8&center=true&vCenter=true&width=650&lines=Antoine+Cuinet;Full-Stack/mobile+Developer" alt="Antoine Cuinet" height="165" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=38&duration=3000&pause=500&color=4493F8&center=true&vCenter=true&width=650&lines=Antoine+Cuinet;iOS+mobile+developer" alt="Antoine Cuinet" height="165" />
 </p>
 
 I'm Antoine, a **M2 computer science student** in Software & Systems Engineering (MIP) at Marie et Louis Pasteur University, Besançon. Passionate about **mobile and full-stack web development**.
