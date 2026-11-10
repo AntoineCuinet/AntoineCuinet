@@ -16,59 +16,51 @@ I'm Antoine, a **M2 computer science student** in Software & Systems Engineering
 
 ## Languages and Tools
 
-<table>
-<tr>
-<td valign="top" width="55%">
-
-### Mobile
-<p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" width="28" height="28" alt="Swift" />&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" width="28" height="28" alt="Xcode" />&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="28" height="28" alt="Apple" />&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="28" height="28" alt="Flutter" />&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="28" height="28" alt="Dart" />
-</p>
-
-### Web
-<p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="28" height="28" alt="PHP" />&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="28" height="28" alt="Symfony" />&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28" height="28" alt="JavaScript" />&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="28" height="28" alt="HTML5" />&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="28" height="28" alt="CSS3" />&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="28" height="28" alt="SASS" />&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="28" height="28" alt="MySQL" />&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="28" height="28" alt="WordPress" />
-</p>
-
-### Tools & DevOps
-<p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28" height="28" alt="Git" />&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="28" height="28" alt="GitLab" />
-</p>
-
-</td>
-<td valign="middle" align="center" width="45%">
-
 <picture>
     <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AntoineCuinet&theme=github_dark"
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AntoineCuinet&theme=github_dark"
     />
     <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AntoineCuinet&theme=github"
+        media="(prefers-color-scheme: light)"
+        srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AntoineCuinet&theme=github"
     />
     <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AntoineCuinet&theme=github"
-    alt="Top Languages"
-    height="165"
+        align="right"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AntoineCuinet&theme=github"
+        alt="Top Languages"
+        height="165"
     />
 </picture>
 
-</td>
-</tr>
-</table>
+<p><strong>Mobile</strong></p>
+<p>
+    <img alt="Swift" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />&nbsp;
+    <img alt="Xcode" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" />&nbsp;
+    <img alt="Apple" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" />&nbsp;
+    <img alt="Flutter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />&nbsp;
+    <img alt="Dart" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
+</p>
+
+<p><strong>Web</strong></p>
+<p>
+    <img alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />&nbsp;
+    <img alt="Symfony" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original.svg" />&nbsp;
+    <img alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;
+    <img alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&nbsp;
+    <img alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />&nbsp;
+    <img alt="SASS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />&nbsp;
+    <img alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />&nbsp;
+    <img alt="WordPress" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" />
+</p>
+
+<p><strong>Tools & DevOps</strong></p>
+<p>
+    <img alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />&nbsp;
+    <img alt="GitLab" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
+</p>
+
+<br clear="right" />
 
 ## Connect with me
 
